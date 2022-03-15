@@ -1,0 +1,21 @@
+#include<stdio.h>
+
+int main()
+{
+    int Age=0;
+
+    printf("Enter your Age :");
+    scanf("%d",&Age);
+
+    if(Age<90 && Age>=18)
+        {
+            printf("You can Drive sir!!!");
+        }
+
+    else
+        {
+            printf("Sorry Sir...You cannot Drive!!!");
+        }
+
+    return 0;
+}
