@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int cvalue='/0';
+
+    for(cvalue='a';cvalue<='z';cvalue++)
+    {
+        printf("%d\n",cvalue);
+    }
+
+    return 0;
+}
