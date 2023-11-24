@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620845988 source:d:\coding\c practice\quize\assignment 3.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1620885683 source:d:\coding\c practice\assignment 3.5\main.c
+	<stdio.h>
+	<conio.h>
+
